@@ -1,5 +1,6 @@
 # get ZINE to know you
 An interactive zine workshop for teams!
+![get ZINE to know you header](https://github.com/KaraAJC/get-zine-to-know-you/blob/master/getZine-to-know-you-header.png)
 
 Presented at Write/Speak/Code Conference 2019 in SF, CA.
 
