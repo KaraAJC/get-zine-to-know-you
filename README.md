@@ -2,13 +2,13 @@
 An interactive zine workshop for teams!
 ![get ZINE to know you header](https://github.com/KaraAJC/get-zine-to-know-you/blob/master/getZine-to-know-you-header.png)
 
-Presented at Write/Speak/Code Conference 2019 in SF, CA.
+Presented at Write/Speak/Code Conference 2019 in SF, CA. [Slides from presentation](https://docs.google.com/presentation/d/1Z7ksluc3euZRWZUsId1I9VTZghaeNp5mRl3OtoWuGAg/edit?usp=sharing)
 
 ## Materials
 
-- [get ZINE to know you worksheet](#)
-- [get ZINE to know you template](#)
-- [get ZINE to know you Workshop Slide deck](#)
+- [get ZINE to know you worksheet](https://docs.google.com/spreadsheets/d/1kgWBt9hnIFPyj2QCT6FsLo_Ws22OZD2AAt5Cd3283ks/edit?usp=sharing)
+- [get ZINE to know you zine template](https://docs.google.com/document/d/1y7_fc8TYntue6aX_QRynx55PQ4xCkq4eqUy_XFGTsPw/edit?usp=sharing)
+- [get ZINE to know you Workshop Slide deck template](https://docs.google.com/presentation/d/1ib91KPJBXwD55gEFK9xA28f4LrI6Rj0q2k9ZYFPOU4w/edit?usp=sharing)
 
 ### Resources
 
